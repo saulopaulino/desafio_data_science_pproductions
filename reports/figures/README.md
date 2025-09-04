@@ -1,3 +1,3 @@
 # reports/figures
 
-Gráficos e figuras geradas.
+Figuras e gráficos gerados automaticamente.

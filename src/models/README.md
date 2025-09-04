@@ -1,3 +1,3 @@
 # src/models
 
-Scripts para treinar e avaliar modelos.
+Treino, avaliação e persistência de modelos.

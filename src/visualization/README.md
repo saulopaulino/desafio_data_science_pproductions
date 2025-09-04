@@ -1,3 +1,3 @@
 # src/visualization
 
-Funções de visualização.
+Funções utilitárias de visualização.

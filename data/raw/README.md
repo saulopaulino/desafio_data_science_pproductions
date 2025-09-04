@@ -1,3 +1,3 @@
 # data/raw
 
-Dados brutos, não modificados.
+Dados brutos, **imutáveis**. Não versionar arquivos grandes no Git.

@@ -1,3 +1,3 @@
 # data/processed
 
-Dados tratados/prontos para análise.
+Dados tratados e prontos para análise/modelagem.

@@ -1,3 +1,3 @@
 # data/external
 
-Dados vindos de fontes externas.
+Dados externos (por ex.: TMDb/OMDb/Box Office Mojo/Google Trends).

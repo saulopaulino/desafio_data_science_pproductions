@@ -1,3 +1,3 @@
 # src/features
 
-Scripts para criação de features.
+Transformações e criação de features.

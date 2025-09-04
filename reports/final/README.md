@@ -1,3 +1,3 @@
 # reports/final
 
-Relatórios finais.
+Relatórios finais (PDF/HTML/MD).

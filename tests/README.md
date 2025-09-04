@@ -1,3 +1,3 @@
 # tests
 
-Testes unitários.
+Testes automatizados (pytest).

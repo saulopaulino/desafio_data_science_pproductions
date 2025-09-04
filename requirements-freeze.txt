@@ -1,1 +1,2 @@
-# Versões fixadas das dependências
+# Preencha com as versões exatas usadas no ambiente.
+# Ex.: pandas==2.2.2

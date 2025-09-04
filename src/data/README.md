@@ -1,3 +1,3 @@
 # src/data
 
-Scripts para carregar/tratar dados.
+Scripts de carga, limpeza e validação de dados.
