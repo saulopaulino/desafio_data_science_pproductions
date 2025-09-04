@@ -1,0 +1,45 @@
+{
+  "top10": [
+    {
+      "feature": "No_of_Votes",
+      "importance": 0.4887084998239489
+    },
+    {
+      "feature": "Released_Year_num",
+      "importance": 0.1425247727777743
+    },
+    {
+      "feature": "Meta_score",
+      "importance": 0.09583119589874291
+    },
+    {
+      "feature": "Runtime_min",
+      "importance": 0.0798422252779035
+    },
+    {
+      "feature": "Certificate_Unknown",
+      "importance": 0.05417821666976803
+    },
+    {
+      "feature": "Certificate_R",
+      "importance": 0.035243011150818765
+    },
+    {
+      "feature": "Genre_simplified_Animation",
+      "importance": 0.011847232028242036
+    },
+    {
+      "feature": "Genre_simplified_Crime",
+      "importance": 0.011165883343717199
+    },
+    {
+      "feature": "Genre_simplified_Drama",
+      "importance": 0.009586762728250216
+    },
+    {
+      "feature": "Genre_simplified_Action",
+      "importance": 0.009520955955170423
+    }
+  ],
+  "r2_test": 0.5445554438353801
+}
